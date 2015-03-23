@@ -10,3 +10,6 @@ Styling SVG http://www.w3.org/TR/SVG/styling.html Property list http://www.w3.or
 
 ## SVG element reference 
 https://developer.mozilla.org/en-US/docs/Web/SVG/Element
+
+### Disable same domain policy chrome 
+    open -a Google\ Chrome --args --disable-web-security -–allow-file-access-from-files
